@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#100-print_tebahpla.py
+# 100-print_tebahpla.py
 
 """"Print the alphabet in reverse order alternating upper- and lower-case."""
 i = 0
