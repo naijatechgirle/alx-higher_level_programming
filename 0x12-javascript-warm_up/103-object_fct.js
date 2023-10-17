@@ -3,6 +3,6 @@ const myObject = {
  type: 'object',
  value: 12,
  incr: function(){
-  this.value += 1
+  myObject.value += 1
  }
 }
